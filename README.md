@@ -1,7 +1,7 @@
 # FileMonitor_macOS
 
 This is a Swift sample app to showcase File access event monitoring on macOS using GCD (DispatchSourceFileSystemObject).
-This sample uses a minimal UI to add directories for access monitoring on the files in side the directory.
+This sample uses a minimal UI to add directories for access monitoring on the files inside the directory.
 Application logs file access events with details such as Timestamp, User and Access Type.
 App use Core data to store list of monitored directories.
 
